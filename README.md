@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sylwia</h1>
-- 🌱 I’m currently learning **Java, Spring Boot, REST API, JPA-Hibernate, Docker**
+- 🌱 I’m currently learning **Java, Spring Boot, REST API, JPA-Hibernate**
 
-
-<p align="left">
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackmirror87&show_icons=true&locale=en&layout=compact" alt="blackmirror87" /></p>
+
