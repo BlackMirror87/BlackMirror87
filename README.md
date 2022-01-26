@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sylwia</h1>
-- 🌱 I’m currently learning **Java, Spring Boot, REST API, JPA-Hibernate**
+- 🌱 I’m currently learning **Spring Boot, REST API, JPA-Hibernate**
 
 </p>
 
